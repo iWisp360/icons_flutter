@@ -142,7 +142,6 @@ class FontAwesome5Brands {
   static const IconData fly = IconData(62487, fontFamily: _family, fontPackage: fontPackage);
   static const IconData font_awesome_alt = IconData(62300, fontFamily: _family, fontPackage: fontPackage);
   static const IconData font_awesome_flag = IconData(62501, fontFamily: _family, fontPackage: fontPackage);
-  static const IconData font_awesome_logo_full = IconData(62694, fontFamily: _family, fontPackage: fontPackage);
   static const IconData font_awesome = IconData(62132, fontFamily: _family, fontPackage: fontPackage);
   static const IconData fonticons_fi = IconData(62370, fontFamily: _family, fontPackage: fontPackage);
   static const IconData fonticons = IconData(62080, fontFamily: _family, fontPackage: fontPackage);

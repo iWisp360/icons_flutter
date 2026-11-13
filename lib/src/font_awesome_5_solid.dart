@@ -351,7 +351,6 @@ class FontAwesome5Solid {
   static const IconData folder_open = IconData(61564, fontFamily: _family, fontPackage: fontPackage);
   static const IconData folder_plus = IconData(63070, fontFamily: _family, fontPackage: fontPackage);
   static const IconData folder = IconData(61563, fontFamily: _family, fontPackage: fontPackage);
-  static const IconData font_awesome_logo_full = IconData(62694, fontFamily: _family, fontPackage: fontPackage);
   static const IconData font = IconData(61489, fontFamily: _family, fontPackage: fontPackage);
   static const IconData football_ball = IconData(62542, fontFamily: _family, fontPackage: fontPackage);
   static const IconData forward = IconData(61518, fontFamily: _family, fontPackage: fontPackage);

@@ -63,7 +63,6 @@ class FontAwesome5 {
   static const IconData flushed = IconData(62841, fontFamily: _family, fontPackage: fontPackage);
   static const IconData folder_open = IconData(61564, fontFamily: _family, fontPackage: fontPackage);
   static const IconData folder = IconData(61563, fontFamily: _family, fontPackage: fontPackage);
-  static const IconData font_awesome_logo_full = IconData(62694, fontFamily: _family, fontPackage: fontPackage);
   static const IconData frown_open = IconData(62842, fontFamily: _family, fontPackage: fontPackage);
   static const IconData frown = IconData(61721, fontFamily: _family, fontPackage: fontPackage);
   static const IconData futbol = IconData(61923, fontFamily: _family, fontPackage: fontPackage);

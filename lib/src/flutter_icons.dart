@@ -461,7 +461,6 @@ class FlutterIcons {
   static const IconData flushed_faw5 = FontAwesome5.flushed;
   static const IconData folder_open_faw5 = FontAwesome5.folder_open;
   static const IconData folder_faw5 = FontAwesome5.folder;
-  static const IconData font_awesome_logo_full_faw5 = FontAwesome5.font_awesome_logo_full;
   static const IconData frown_open_faw5 = FontAwesome5.frown_open;
   static const IconData frown_faw5 = FontAwesome5.frown;
   static const IconData futbol_faw5 = FontAwesome5.futbol;
@@ -1876,7 +1875,6 @@ class FlutterIcons {
   static const IconData folder_open_faw5s = FontAwesome5Solid.folder_open;
   static const IconData folder_plus_faw5s = FontAwesome5Solid.folder_plus;
   static const IconData folder_faw5s = FontAwesome5Solid.folder;
-  static const IconData font_awesome_logo_full_faw5s = FontAwesome5Solid.font_awesome_logo_full;
   static const IconData font_faw5s = FontAwesome5Solid.font;
   static const IconData football_ball_faw5s = FontAwesome5Solid.football_ball;
   static const IconData forward_faw5s = FontAwesome5Solid.forward;
@@ -2850,7 +2848,6 @@ class FlutterIcons {
   static const IconData fly_faw5d = FontAwesome5Brands.fly;
   static const IconData font_awesome_alt_faw5d = FontAwesome5Brands.font_awesome_alt;
   static const IconData font_awesome_flag_faw5d = FontAwesome5Brands.font_awesome_flag;
-  static const IconData font_awesome_logo_full_faw5d = FontAwesome5Brands.font_awesome_logo_full;
   static const IconData font_awesome_faw5d = FontAwesome5Brands.font_awesome;
   static const IconData fonticons_fi_faw5d = FontAwesome5Brands.fonticons_fi;
   static const IconData fonticons_faw5d = FontAwesome5Brands.fonticons;
